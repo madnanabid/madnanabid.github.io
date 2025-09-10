@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Atmospheric Teleconnections"
+title: "Modeling climate variability to understand predictability"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
