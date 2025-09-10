@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Meteorology
+* PhD in Meteorology (2018)
   
 Key technical Skills
 ======
@@ -23,8 +23,6 @@ Appointments
 ======
 * 2023-	Postdoc Research Assistant, Atmospheric, Oceanic, and Planetary Physics (AOPP), Department of Physics, University of Oxford, U.K.
 * 2018-2023	Postdoc Fellow, Earth System Physics Section, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
-* 2009-2012	Lecturer, Center of Excellence for Climate Change Research/Department of Meteorology, King Abdulaziz University, Jeddah, Saudi Arabia.
-* 2005-2009 Scientific Officer, Global Change Impact Studies Centre, Islamabad, Pakistan.
   
 Research Highlights
 ======
