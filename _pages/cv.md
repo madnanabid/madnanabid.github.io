@@ -40,7 +40,7 @@ Selected Publications and Conference Talks
 
 Science Communication
 ======
-* “Nature Middle East” Interview published with the title “Predicting droughts”, 2018. doi: 10.1038/nmiddleeast.2018.5.
+* “Predicting droughts”, 2018. [doi: 10.1038/nmiddleeast.2018.5](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2018.5).
 * What Goes on in the Pacific Doesn’t stay in the Pacific, 2021 (https://www.ictp.it/about-ictp/media-centre/news/2021/2/abid-and-kucharski.aspx).
 * Role of ocean warming in the heatwave over the European region during 2023 summer (https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html
 
