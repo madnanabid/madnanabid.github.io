@@ -15,8 +15,9 @@ Education
   
 Key technical Skills
 ======
-* Computational:
-  * Python, Fortran, Latex
+* Climate Modeling
+* Computational Proficiency:
+  * Python, Fortran
   
 Appointments
 ======
