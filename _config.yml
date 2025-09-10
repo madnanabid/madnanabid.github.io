@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Shirin Ermis"
+title                    : "Muhammad Adnan Abid"
 title_separator          : "-"
-name                     : &name "Shirin Ermis"
-description              : &description "Doctoral researcher at the University of Oxford"
-url                      : https://shirin-ermis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Muhammad Adnan Abid"
+description              : &description "Climate Scientist at the University of Oxford"
+url                      : https://madnanabid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shirin-ermis/shirin-ermis.github.io"
+repository               : "madnanabid/madnanabid.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shirin Ermis"
+  name             : "Muhammad Adnan Abid"
   avatar           : "profile.png"
-  bio              : "Doctoral researcher in atmospheric physics. MSc from Imperial College. Previously: University of Heidelberg and Durham University."
-  bio2             : "Extreme weather events, especially mid-latitude storms, event attribution, numerical weather prediction and science-based policy"
-  bio3             : "she/her"
+  bio              : "Climate Scientist"
+  bio2             : "Teleconnections, Extratropical, ENSO, Indian Ocean"
+  bio3             : "he/him"
   location         : "Oxford, UK"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : shirin-ermis at env-res dot ox dot ac dot uk
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : adnan.abid at physics dot ox dot ac dot uk
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Adnan-Abid?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shirin-ermis"
+  github           : "madnanabid"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/shirin-ermis-29730918a/
+  linkedin         : https://www.linkedin.com/in/m-adnan-abid-6041a322//
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : http://x.com/madnanabid
   vine             :
   weibo            :
   xing             :
