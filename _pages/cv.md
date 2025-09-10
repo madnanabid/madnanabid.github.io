@@ -11,80 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Heidelberg University, Germany, 2016-2020
-* M.S. in Physics with Extended Research, Imperial College London, 2020-2022
-* DPhil in Environmental Research, University of Oxford, 2022-2026 (expected)
+* PhD in Meteorology
   
 Key technical Skills
 ======
 * Computational:
-  * Highly proficient in python and R
-  * Proficient in Latex, MATLAB, Wolfram, Bash
-  * Knowledge of machine learning in python
-  * Daily user of Microsoft office Suite
-* Python specific:
-  * Data analysis. numpy , pandas
-  * Geospatial: xarray , cdo, netcdf4
-  * Data visualisation: matplotlib,
-  plotly, seaborn, cartopy
+  * Python, Fortran, Latex
   
-Awards and Scholarships
+Appointments
 ======
-* Special Project at the European Centre for Medium-Range Weather Forecasts (ECMWF) - Resources to run six months of high-resolution weather forecasts
-* Scholarship for a DPhil in Environmental Research. St. Cross College, Oxford. (2022-2026) 
-* Scholarship for a master’s degree abroad. DAAD (German Academic Exchange Service). Total worth 30,550€. (2021-2022)
-* Degree scholarship for young talents. Heinrich-Böll Foundation e.V. Covering living costs of up to 650€ and tuition fees up to 10,000€ for two years studying abroad (2016-2022)
-* Award for the best Physics Abitur (German A level equivalent) at Grimmelshausen Gymnasium Gelnhausen. Total worth 1000€. (2016)
+* 2023-	Postdoc Research Assistant, Atmospheric, Oceanic, and Planetary Physics (AOPP), Department of Physics, University of Oxford, U.K.
+* 2018-2023	Postdoc Fellow, Earth System Physics Section, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
+* 2009-2012	Lecturer, Center of Excellence for Climate Change Research/Department of Meteorology, King Abdulaziz University, Jeddah, Saudi Arabia.
+* 2005-2009 Scientific Officer, Global Change Impact Studies Centre, Islamabad, Pakistan.
+<img width="468" height="115" alt="image" src="https://github.com/user-attachments/assets/623c447c-d0d3-4aed-bbf9-47758800ab59" />
 
-Experience in Research and Data Analysis
+Research Highlights
 ======
-* Research Assistant on Climate Damages -- Oxford Sustainable Law Program (09/2024-present)
-  * Worked in an interdisciplinary team to assess methods for calculating flood damages with a hydrological model
-  * Within four weeks summarised methods on calculating climate damages from flooding and submitted advice to the US State of Vermont for Climate Superfund Law 
-* Intern at Imperial College London calculating the university’s travel carbon footprint (06/2021-08/2021)
-  * Calculated the College's carbon footprint due to academic flying from incomplete data 
-  * Communicated results to the College's sustainability leadership to inform sustainability strategy
-* Master Thesis on the predictability of tropical cyclones working with Ralf Toumi (09/21-06/22)
-  * Using the STORM model to create synthetic cyclone tracks we are aiming to improve the predictability of landfall- ing tropical cyclones in the South China Sea
-* Thesis and research assistant on centennial scale variability of Atlantic Overturning (08/2019-09/2020)
-  * Assessing past variability and recent decline of the Atlantic Meridional Overturning Circulation from climate model data
-  * Independently planned and implemented data analysis of four CMIP models and presented results at the international conference EGU 2020.
-* Summer Student in the Department of Physics, Oxford (06/2019-08/2019)
-  * Analysis of parameter perturbation experiments and their effect on temperature variance in a global circulation model (weather@home model based on HadAM3P)
-* Summer Student in the Institute for Meteorology, Freie Universität Berlin (7 weeks - Summer 2018) - Assessed reliability of the MPI-ESM climate model in heat waves for decadal climate projections
-  * Assessed reliability of the MPI-ESM climate model in heat waves for decadal climate projections
+* Article published in “npj Climate and Atmospheric Science” on the summer rainfall variability and predictability got media attention. The “Nature Middle East” took an interview and published with the title “Predicting droughts”, 2018. doi: 10.1038/nmiddleeast.2018.5.
+* What Goes on in the Pacific Doesn’t stay in the Pacific, 2021 (https://www.ictp.it/about-ictp/media-centre/news/2021/2/abid-and-kucharski.aspx).
+* Talked about the potential role of the ocean warming in the heatwave over the European region, 2023 (https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html
+<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/99127cab-5ebb-45c8-b25d-a8472daa2fd5" />
 
 
-Publications and Selected Conference Presentations
+Selected Publications and Conference Talks
 ======
-* Event attribution of a midlatitude windstorm using ensemble weather forecasts (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Environmental Research: Climate. [DOI:10.1088/2752-5295/ad4200](https://iopscience.iop.org/article/10.1088/2752-5295/ad4200/meta).
-* Forecast-based attribution for midlatitude cyclones (2024). Shirin Ermis, Nicholas Leach, Fraser Lott, Sarah Sparrow, and Antje Weisheimer. Oral presentation at EGU 2024 [10.5194/egusphere-egu24-1978](https://doi.org/10.5194/egusphere-egu24-1978).
-* Modelling interannual variability in a tropical cyclone hazard model (2022). Shirin Ermis and Ralf Toumi. Oral presentation at EGU 2022. [DOI:10.5194/egusphere-egu22-1725](https://doi.org/10.5194/egusphere-egu22-1725).
-* SIAM-IMA conference, June 2, 2020. Talk on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation.
-* EGU 2020, Poster presentation on Assessment of temperature fingerprints in the North Atlantic for the reconstruction of deep water formation. S. Ermis, P. Moffa-Sánchez, A. Jahn, K. Rehfeld.
+* Weisheimer, A., T. Palmer, N. Leach, M. Allen, C. Roberts, M.A. Abid; CO2-induced Climate Change Assessment for the extreme 2022 Pakistan Rainfall using Seasonal Forecasts; npj Clim. and Atmos. Science ( https://doi.org/10.1038/s41612-025-01136-3)
+* Raganato, A., M.A. Abid, and F. Kucharski: The combined link of the Indian Ocean dipole and ENSO with the North Atlantic-European circulation during early boreal winter in reanalysis and the ECMWF-SEAS5 hindcast. J. Climate, https://doi.org/10.1175/JCLI-D-23-0703.1, 2024.
+* Ruggieri, P., Abid, M.A., García-Serrano, J. et al.; SPEEDY-NEMO: performance and applications of a fully-coupled intermediate-complexity climate model. Clim. Dynamics, 62, 3763–3781. https://doi.org/10.1007/s00382-023-07097-8; 2024.
+* Liu, Y., Sun, C., Li, J., Kucharski, F., Lorenzo, E.D., Abid, M.A., Li, X.; Decadal oscillation provides skillful multiyear predictions of Antarctic Sea ice. Nat. Communication 14, 8286. https://doi.org/10.1038/s41467-023-44094-1; 2023.
+* Ashfaq, M., Johnson, N., Kucharski, F., Diffenbaugh, N.S., Abid, M.A., et al.; The influence of natural variability on extreme monsoons in Pakistan. npj Climate and Atmospheric Science, 6, 148. https://doi.org/10.1038/s41612-023-00462-8; 2023.
+* M. A. Abid, F. Kucharski, F. Molteni, M. Almazroui; Predictability of the Indian Ocean Precipitation and its North Atlantic teleconnections during early Winter; npj Climate and Atmospheric Science, 10.1038/s41612-023-00328-z; 2023.
+* M. A. Abid, F. Kucharski, F. Molteni, I-S. Kang, A. Tompkins, M. Almazroui; Separating Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO and its transition from early to late winter; J. Climate; 34; 1531-1548; https://doi.org/10.1175/JCLI-D-20-0075.1; 2021.
+
+* <img width="468" height="38" alt="image" src="https://github.com/user-attachments/assets/92559704-6202-4bf8-8c64-db922b7dc4b0" />
+
 
 Science Communication
 ======
-* Article for The Converstaion on passing the 1.5˚C warming threshold (2025)
-  * [Global temperatures passed critical 1.5°C milestone for the first time in 2024 – new report](https://theconversation.com/global-temperatures-passed-critical-1-5-c-milestone-for-the-first-time-in-2024-new-report-246821)
-* Article on palaeoclimatology in for Anthroposphere Magazine, the Oxford Climate Review (2021)
-  * Future Lessons from the Past. Beatrice Ellerhoffer and Shirin Ermis. [Online version](https://www.anthroposphere.co.uk/post/future-lessons-from-the-past) (February 2021).
-* Several published articles in Imperial student newspaper Felix and the blog [manybodyphysics.com](manybodyphysics.com) (2020-present)
-  * The future of attribution science. An article on the science of extreme event attribution and an interview with Dr Frieder- ike Otto. Shirin Ermis. Print edition of Felix (October 2021).
-  * This year’s female Nobel Laureates – A paradigm shift? Shirin Ermis. [Online version](https://felixonline.co.uk/issue/1752/sci-ence/this-years-female-nobel-laureates-leading-a-paradigm-shift) (October 2020).
-* Humans of Physics IV: Shirin Ermis. (September 2020). [Online version](https://manybodyphysics.com/2020/09/17/humans-of-physics-iv-shirin-ermin/)
-
+* 
 Interdisciplinary Experience on Climate Change
 ======
-* Delegate of Imperial College to the U7+ Student Forum (Summer 2021)
-  * Topic of the student forum is “Climate Change: Intergenerational Conflict or Intergenerational Alliance?”
-  * Together with a team of six students from across the globe, I wrote a policy brief on how to tackle multigenerational issues which was presented to the university presidents in November 2021. Attended masterclasses on interacting with policy makers from leading academics.
-* Oxford School of Climate Change, 8-week program in Autumn 2020 organised by Oxford Climate Society
-  * Gained insight from Oxford lecturers on diverse Climate Change topics
-  * Designed extreme heat adaptability roadmap for London in a team 
-* Students for Future Heidelberg, Member of the Organising Committee (2019)
-  * Organised Climate Strike Week with an entire week of alternative lectures within one month and arranged participation of 8 senior academics
-* Member of the Organising Committee for the seminar “Ethics in Natural Sciences”, Heinrich Böll Foundation e.V. (2019- 2020)
-  * Planned weekend seminar including a workshop on responsible science communication and lead discussions
-* Delegate of Heidelberg University at the Climate Conference, Conference of the Parties (COP) 23, Bonn 2017
-
+* 
