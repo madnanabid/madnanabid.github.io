@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Muhammad Adnan Abid"
 title_separator          : "-"
 name                     : &name "Muhammad Adnan Abid"
-description              : &description "Climate Scientist at the University of Oxford"
+description              : &description "Earth System Scientist at the University of Oxford"
 url                      : https://madnanabid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "madnanabid/madnanabid.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @madnanabid
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
