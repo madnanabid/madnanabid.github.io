@@ -30,7 +30,7 @@ Research Highlights
 
 Selected Publications and Conference Talks
 ======
-* Weisheimer, A., T. Palmer, N. Leach, M. Allen, C. Roberts, M.A. Abid; CO2-induced Climate Change Assessment for the extreme 2022 Pakistan Rainfall using Seasonal Forecasts; npj Clim. and Atmos. Science, https://doi.org/10.1038/s41612-025-01136-3
+* Weisheimer, A., T. Palmer, N. Leach, M. Allen, C. Roberts, M.A. Abid; CO2-induced Climate Change Assessment for the extreme 2022 Pakistan Rainfall using Seasonal Forecasts; npj Clim. and Atmos. Science, https://www.nature.com/articles/s41612-025-01136-3
 * Raganato, A., M.A. Abid, and F. Kucharski: The combined link of the Indian Ocean dipole and ENSO with the North Atlantic-European circulation during early boreal winter in reanalysis and the ECMWF-SEAS5 hindcast. J. Climate, https://doi.org/10.1175/JCLI-D-23-0703.1, 2024.
 * Ruggieri, P., Abid, M.A., García-Serrano, J. et al.; SPEEDY-NEMO: performance and applications of a fully-coupled intermediate-complexity climate model. Clim. Dynamics, 62, 3763–3781. https://doi.org/10.1007/s00382-023-07097-8; 2024.
 * Liu, Y., Sun, C., Li, J., Kucharski, F., Lorenzo, E.D., Abid, M.A., Li, X.; Decadal oscillation provides skillful multiyear predictions of Antarctic Sea ice. Nat. Communication 14, 8286. https://doi.org/10.1038/s41467-023-44094-1; 2023.
@@ -41,8 +41,8 @@ Selected Publications and Conference Talks
 Science Communication
 ======
 * “Predicting droughts”, 2018. [doi: 10.1038/nmiddleeast.2018.5](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2018.5).
-* What Goes on in the Pacific Doesn’t stay in the Pacific, 2021 (https://www.ictp.it/about-ictp/media-centre/news/2021/2/abid-and-kucharski.aspx).
-* Role of ocean warming in the heatwave over the European region during 2023 summer (https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html
+* What Goes on in the Pacific Doesn’t stay in the Pacific, 2021 [(https://www.ictp.it/about-ictp/media-centre/news/2021/2/abid-and-kucharski.aspx)](https://www.ictp.it/news/2021/2/what-goes-pacific-doesnt-stay-pacific).
+* Role of ocean warming in the heatwave over the European region during 2023 summer [(https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html](https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html)
 
 
 Interdisciplinary Experience on Climate Change
