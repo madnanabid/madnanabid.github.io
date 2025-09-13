@@ -43,7 +43,8 @@ Science Communication
 * “Predicting droughts”, 2018. [doi: 10.1038/nmiddleeast.2018.5](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2018.5).
 * What Goes on in the Pacific Doesn’t stay in the Pacific, 2021 [(https://www.ictp.it/about-ictp/media-centre/news/2021/2/abid-and-kucharski.aspx)](https://www.ictp.it/news/2021/2/what-goes-pacific-doesnt-stay-pacific).
 * Role of ocean warming in the heatwave over the European region during 2023 summer [(https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html](https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html)
-
+* Future of El Nino (https://www.ictp.it/news/2023/12/future-el-nino)
+  
 
 Interdisciplinary Experience on Climate Change
 ======
