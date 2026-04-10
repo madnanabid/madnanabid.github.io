@@ -25,7 +25,7 @@ Key technical Skills
 ======
 * Climate Modeling
 * Computational Proficiency:
-  * Python, Fortran
+  * Python, Fortran, Shell scripting
   
 Appointments
 ======
