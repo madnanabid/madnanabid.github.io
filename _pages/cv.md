@@ -58,7 +58,7 @@ Selected Talks (2023-
 * Seamless system to forecast climate extremes on multi annual to seasonal timescales; Seamless Global Modelling workshop; 3-6 June, 2025; Bristol, U.K.  (Oral; Contributed).
 *Seamless Climate Information for climate extremes through merging of forecasts across seasonal to multi-annual timescales; M. A. Abid EGU 2025; 27 April - 2 May; 2025; Vienna, Austria (Oral; Contributed).
 * Developing Seamless Climate Information for climate extremes using novel approach for the climate resilient society; M. A. Abid; COP16; 06 Dec. 2024, Riyadh, Saudi Arabia (Oral; Invited).
-*Future Changes in the early winter ENSO teleconnections to the North Atlantic European region; M. A. Abid; EGU 2023; 23–28 April 2023, Vienna, Austria (Oral; Contributed).
+* Future Changes in the early winter ENSO teleconnections to the North Atlantic European region; M. A. Abid; EGU 2023; 23–28 April 2023, Vienna, Austria (Oral; Contributed).
 * ENSO teleconnections and Predictability of the Euro-Atlantic region during winter in the inter-basin framework; M. A. Abid; 3rd Summer School on Theory, Mechanisms and Hierarchical Modeling of Climate Dynamics: Tropical Oceans, ENSO and their teleconnections, 18-30 July; 2022; Trieste, Italy (Oral; Invited).
   
 Science Communication
