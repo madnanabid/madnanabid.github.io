@@ -13,11 +13,17 @@ Education
 ======
 * PhD in Meteorology (2018)
   
-Key technical Skills
+Research Interest
 ======
 * Climate Modeling
 * Climate Variability and Predictability
+* Climate Dynamics
 * Seamless climate information
+* Climate Adaptation
+    
+Key technical Skills
+======
+* Climate Modeling
 * Computational Proficiency:
   * Python, Fortran
   
@@ -46,9 +52,9 @@ Selected Publications and Conference Talks
 
 Science Communication
 ======
-*	Science and Industry collaboration: (https://www.aspect-project.eu/aspect-supports-climate-informed-decision-making-at-recent-hackathon/)
+*	Science and Industry collaboration: [https://www.aspect-project.eu/aspect-supports-climate-informed-decision-making-at-recent-hackathon/](https://www.aspect-project.eu/aspect-supports-climate-informed-decision-making-at-recent-hackathon/).
   
-* Future of El Nino (https://www.ictp.it/news/2023/12/future-el-nino)
+* Future of El Nino [https://www.ictp.it/news/2023/12/future-el-nino)](https://www.ictp.it/news/2023/12/future-el-nino).
   
 * Role of ocean warming in the heatwave over the European region during 2023 summer [(https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html](https://www.ansa.it/friuliveneziagiulia/notizie/2023/07/28/oceanografi-le-ondate-di-calore-non-dipendono-da-el-nino_2e84dad6-bdb6-4096-893a-d6bb6f02ef25.html)
   
