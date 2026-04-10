@@ -39,18 +39,24 @@ Research Highlights
 * Hightlighted role of the Indian Ocean in the ENSO teleconenctions with the North Atlantic and South Asian region.
 * Established ENSO teleconnections with Arabian Peninsula precipitation under modeling framework.
 
-Selected Publications (2021- 
+Selected Publications 
 ======
 * Reale, M., A. Raganato, F. D'Andrea, M. A. Abid, A. Hochman, N. R. Chowdhury, S. Salon, F. Kucharski; Response of Early Winter Precipitation and Storm Activity in the North Atlantic–European–Mediterranean Region to Indian Ocean SST Variability; Geo. Phys. Res. Lett.; https://doi.org/10.1029/2025GL116732, 2025.
 * Weisheimer, A., T. Palmer, N. Leach, M. Allen, C. Roberts, M.A. Abid; CO2-induced Climate Change Assessment for the extreme 2022 Pakistan Rainfall using Seasonal Forecasts; npj Clim. and Atmos. Science, https://www.nature.com/articles/s41612-025-01136-3, 2025.
-* Raganato, A., M.A. Abid, and F. Kucharski: The combined link of the Indian Ocean dipole and ENSO with the North Atlantic-European circulation during early boreal winter in reanalysis and the ECMWF-SEAS5 hindcast. J. Climate, https://doi.org/10.1175/JCLI-D-23-0703.1, 2024.
+* Raganato, A., M.A. Abid, and F. Kucharski: The combined link of the Indian Ocean dipole and ENSO with the North Atlantic-European circulation during early boreal winter in reanalysis and the ECMWF-SEAS5 hindcast. J. Climate, https://doi.org/10.1175/JCLI-D-23-0703.1, 2025.
+* Rashid, I.U., Abid, M.A., Osman, M. et al.; Predictability of the early summer surface air temperature over Western South Asia. Clim. Dynamics, 62, 9361–9375, https://doi.org/10.1007/s00382-024-07399-5, 2024.
 * Ruggieri, P., Abid, M.A., García-Serrano, J. et al.; SPEEDY-NEMO: performance and applications of a fully-coupled intermediate-complexity climate model. Clim. Dynamics, 62, 3763–3781. https://doi.org/10.1007/s00382-023-07097-8; 2024.
 * Liu, Y., Sun, C., Li, J., Kucharski, F., Lorenzo, E.D., Abid, M.A., Li, X.; Decadal oscillation provides skillful multiyear predictions of Antarctic Sea ice. Nat. Communication 14, 8286. https://doi.org/10.1038/s41467-023-44094-1; 2023.
 * Ashfaq, M., Johnson, N., Kucharski, F., Diffenbaugh, N.S., Abid, M.A., et al.; The influence of natural variability on extreme monsoons in Pakistan. npj Climate and Atmospheric Science, 6, 148. https://doi.org/10.1038/s41612-023-00462-8; 2023.
 * M. A. Abid, F. Kucharski, F. Molteni, M. Almazroui; Predictability of the Indian Ocean Precipitation and its North Atlantic teleconnections during early Winter; npj Climate and Atmospheric Science, 10.1038/s41612-023-00328-z; 2023.
+* Ashfaq, M., D. Rastogi, J. Kitson, M. A. Abid, S-C Kao; Evaluation of CMIP6 GCMs over the CONUS for downscaling studies; JGR Atmospheres, https://doi.org/10.1029/2022JD036659; 2022.
 * M. A. Abid, F. Kucharski, F. Molteni, I-S. Kang, A. Tompkins, M. Almazroui; Separating Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO and its transition from early to late winter; J. Climate; 34; 1531-1548; https://doi.org/10.1175/JCLI-D-20-0075.1; 2021.
+* M. A Abid, M. Almazroui, F. Kucharski, E. O’Brien, A. Yousef; ENSO relationship to Summer Rainfall Variability and its Potential Predictability over Arabian Peninsula Region; npj Clim. and Atmos. Science; 1:20171; doi: 10.1038/s41612-017-0003-7; 2018.
+* F. Kucharski and M. A. Abid; Interannual Variability of the Indian Monsoon and Its Link to ENSO; Oxf. Res. Ency. of Clim. Science; doi:10.1093/acrefore/9780190228620.013.615; 2017.
+* M. Almazroui, Tayeb O., Mashat A.S., Yousef A., Turki Y.A., M. A. Abid, et al.; Saudi-KAU coupled global climate model: Description and performance; Earth Sys. Env.; 1, doi: 10.1007/s41748-017-0009-7; 2017.
+* M. A. Abid, F. Kucharski, M. Almazroui, I-S. Kang; Interannual rainfall variability and ECMWF-Sys4-based predictability over the Arabian Peninsula winter monsoon region; Quart. J. R. Met. Soc. 142 (694), 233-242, 2016.
 
-Selected Talks (2023- 
+Selected Talks
 ======
 * Bridging multi-annual to seasonal forecast: Climate information for Extremes; General Assembly ASPECT project, 3-5 Feb. 2026; Reading, U.K. (Oral; Contributed)
 * Role of Indian Ocean in modulating Synoptic transients feedback to the early winter circulation anomalies over the North Atlantic European region; 10th UK Climate Dynamics Workshop, 7-9 July, 2025; Exeter, U.K. (Oral; Contributed).
