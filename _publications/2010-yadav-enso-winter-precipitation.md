@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2010-yadav-enso-winter-precipitation
 date: 2010-01-01
 venue: "Journal of Climate"
-authors: "Yadav, R.K., Kumar, K.K., Rajeevan, M. & Abid, M.A."
+paperurl: "https://doi.org/10.1175/2009JCLI3202.1"
+authors: "Yadav, R.K., Yoo, J.H., Kucharski, F. & Abid, M.A."
 ---
