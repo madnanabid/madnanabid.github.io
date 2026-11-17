@@ -3,11 +3,6 @@ title: "Media & Outreach"
 permalink: /outreach/
 author_profile: true
 ---
----
-title: "Media & Outreach"
-permalink: /media/
-author_profile: true
----
 
 This section highlights media coverage, interviews, and research outreach.
 
