@@ -14,7 +14,7 @@ Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). [Bridging multi-annual t
 
 ## Climate Variability and Ocean–Atmosphere Teleconnections
 
-![Figure 15: Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO](/images/research/Fig15_Abidetal_2021.tif)
+![Figure 15: Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO](/images/research/Fig15_Abidetal_2021.png)
 
 *Figure 15. Indian and Pacific Ocean contributions to the Euro-Atlantic circulation response to ENSO and their seasonal evolution from early to late winter.*
 
