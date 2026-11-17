@@ -13,7 +13,7 @@ Climate forecasts are most useful when they can support real-world decisions. My
 
 **Related publication:**
 
-[Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application. *npj Natural Hazards*.](https://doi.org/10.1038/s44304-026-00269-6). 
+[Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application. *npj Natural Hazards*.](https://doi.org/10.1038/s44304-026-00269-6)
 
 
 ## Role of Indian Ocean in ENSO Teleconnections to North Atlantic & Europe
@@ -26,4 +26,4 @@ My research investigates how tropical ocean variability, particularly the El Ni√
 
 **Related publication:**
 
-[Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1).
+[Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1)
