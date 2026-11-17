@@ -1,5 +1,5 @@
 ---
-title: "Media Coverage & Research Highlights"
+title: "Media & Outreach"
 permalink: /outreach/
 author_profile: true
 ---
