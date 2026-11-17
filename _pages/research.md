@@ -13,7 +13,7 @@ Climate forecasts are most useful when they can support real-world decisions. My
 Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). [Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application](https://doi.org/10.1038/s44304-026-00269-6). *npj Natural Hazards*.
 
 
-## Climate Variability and Ocean–Atmosphere Teleconnections
+## Role of Indian Ocean in ENSO Teleconnections to North Atlantic & Europe
 
 ![Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO](/images/research/Fig15_Abidetal_2021.png)
 
