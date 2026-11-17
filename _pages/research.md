@@ -3,6 +3,15 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Making Climate Forecast Information Actionable
+
+Climate forecasts are most useful when they can support real-world decisions. My research explores how scientists and industry can work together to develop climate information that meets the needs of decision-makers. In particular, I have developed an approach that combines ensemble forecasts across different start dates, linking interannual and seasonal predictions into a seamless forecasting framework. This approach helps provide more consistent climate information across timescales and demonstrates its potential value for supporting practical decisions and managing climate-related risks.
+
+**Related publication:**
+
+[Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application. npj Nat. Hazards*.] (https://doi.org/10.1038/s44304-026-00269-6)
+
+
 
 ## Climate Variability and Oceanâ€“Atmosphere Teleconnections
 
@@ -15,21 +24,3 @@ My research investigates how tropical ocean variability, particularly the El NiÃ
 **Related publication:**
 
 [Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1)
-
-## Current research
-
-My current work investigates the dynamical mechanisms underlying climate variability and predictability, with a focus on large-scale atmospheric circulation and teleconnections.
-
-I aim to combine observational datasets, climate reanalysis products, and numerical model simulations to better understand the physical mechanisms connecting global climate variability to regional climate responses.
-
-## Research approach
-
-My research uses a combination of:
-
-- Atmospheric and climate reanalysis datasets
-- Observational climate records
-- Climate model modelling
-- Statistical analysis and diagnostics
-- Scientific programming and data visualization, particularly with Python
-
-I am interested in research that connects physical understanding of the climate system with improved prediction of regional climate variability.
