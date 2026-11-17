@@ -19,7 +19,7 @@
     {% if post.collection == 'publications' %}
 
       <p class="archive__item-title" itemprop="headline">
-        {{ post.authors | escape }}
+        {{ post.authors | replace_first: "Abid, M.A.", "<strong>Abid, M.A.</strong>" }}
         ({{ post.date | date: "%Y" }}).
         <a href="{{ post.paperurl | default: post.url }}">{{ title }}</a>.
         <em>{{ post.venue }}</em>.
