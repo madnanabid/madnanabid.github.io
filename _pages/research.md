@@ -31,7 +31,7 @@ My research investigates how tropical ocean variability, particularly the El Ni�
 
 ## Role of Indian Ocean in ENSO Teleconnections to South & West Asia
 
-![Indian Ocean contribution in mediating ENSO teleconnections to Southwest Asia](/images/research/Fig15_Abidetal_2021.png)
+![Indian Ocean contribution in mediating ENSO teleconnections to Southwest Asia](/images/research/Abidetal_2020_grl61230-fig-0003-m_Fig3.png)
 
 *(a) Correlations between the standardized CSWA, Niño3.4, and TWEIO precipitation indices, (b) same as of (a) but with linearly independent Niño3.4 and TWEIO indices. (c–h) Regression of precipitation (shaded; mm/day) and 200-hPa geopotential height (Z200) anomalies (contours; m) onto standardized TWEIO precipitation index after removing the effect of Niño3.4; (i–n) same as in (c)–(h) but for the standardized Niño3.4 precipitation index after removing the effect of TWEIO. Purple contours represent statistical significance at 95% confidence level.*
 
