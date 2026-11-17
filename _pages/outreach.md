@@ -1,6 +1,6 @@
 ---
 title: "Media & Outreach"
-permalink: /media/
+permalink: /outreach/
 author_profile: true
 ---
 ---
