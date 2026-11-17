@@ -26,3 +26,17 @@ My research investigates how tropical ocean variability, particularly the El Ni�
 **Related publication:**
 
 [Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1)
+
+
+
+## Role of Indian Ocean in ENSO Teleconnections to South & West Asia
+
+![Indian Ocean contribution in mediating ENSO teleconnections to Southwest Asia](/images/research/Fig15_Abidetal_2021.png)
+
+*(a) Correlations between the standardized CSWA, Niño3.4, and TWEIO precipitation indices, (b) same as of (a) but with linearly independent Niño3.4 and TWEIO indices. (c–h) Regression of precipitation (shaded; mm/day) and 200-hPa geopotential height (Z200) anomalies (contours; m) onto standardized TWEIO precipitation index after removing the effect of Niño3.4; (i–n) same as in (c)–(h) but for the standardized Niño3.4 precipitation index after removing the effect of TWEIO. Purple contours represent statistical significance at 95% confidence level.*
+
+Indian Ocean mediates ENSO teleconnections to southwest Asia. I examine the relative contributions of the Indian and Pacific Oceans and the physical mechanisms through observations & modelling experiments.
+
+**Related publication:**
+
+[Abid, M.A., Ashfaq, M., Kucharski, F., Evans, K.J. & Almazroui, M. (2020). Tropical Indian Ocean Mediates ENSO Influence Over Central Southwest Asia During the Wet Season. *Geophysical Research Letters*.](https://doi.org/10.1029/2020GL089308)
