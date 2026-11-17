@@ -1,11 +1,14 @@
 # main links links
 main:
 
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Blogs"
+    url: /blogs/
+    
   - title: "CV"
     url: /cv/
-
-  - title: "Blog"
-    url: /year-archive/
-    
-  - title: "Group"
-    url: https://www.physics.ox.ac.uk/research/group/predictability-weather-and-climate
