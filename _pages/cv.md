@@ -13,6 +13,11 @@ Education
 ======
 * PhD in Meteorology (2018)
   
+Appointments
+======
+* 2023-	: Postdoc Research Assistant, Atmospheric, Oceanic, and Planetary Physics (AOPP), Department of Physics, University of Oxford, U.K.
+* 2018-2023:	Postdoc Fellow, Earth System Physics Section, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
+
 Research Interest
 ======
 * Climate Modeling
@@ -26,12 +31,8 @@ Key technical Skills
 * Climate Modeling
 * Computational Proficiency:
   * Python, Fortran, Shell scripting
-  
-Appointments
-======
-* 2023-	: Postdoc Research Assistant, Atmospheric, Oceanic, and Planetary Physics (AOPP), Department of Physics, University of Oxford, U.K.
-* 2018-2023:	Postdoc Fellow, Earth System Physics Section, The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy.
-  
+
+
 Research Highlights
 ======
 
