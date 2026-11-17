@@ -28,8 +28,8 @@ My research uses a combination of:
 
 - Atmospheric and climate reanalysis datasets
 - Observational climate records
+- Climate model modelling
 - Statistical analysis and diagnostics
-- Climate model simulations
 - Scientific programming and data visualization, particularly with Python
 
 I am interested in research that connects physical understanding of the climate system with improved prediction of regional climate variability.
