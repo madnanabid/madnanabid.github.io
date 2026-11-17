@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2016-abid-arabian-rainfall-predictability
 date: 2016-01-01
 venue: "Quarterly Journal of the Royal Meteorological Society"
-authors: "Abid, M.A. & others"
+paperurl: "https://doi.org/10.1002/qj.2648"
+authors: "Abid, M.A., Kucharski, F., Almazroui, M. & Kang, I.-S."
 ---
