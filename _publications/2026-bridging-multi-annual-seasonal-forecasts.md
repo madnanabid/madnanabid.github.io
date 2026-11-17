@@ -1,0 +1,3 @@
+Making climate forecast information actionable!
+
+The co-production framework between science and industry is a practical pathway for building, tailored climate information that can be accessible for actionable measures by decision-makers. In this regard, we have developed a new approach, where ensemble members are pooled across available start dates from interannual to seasonal forecasts. This new method demonstrates the potential economic value, and usefulness of the seamless forecasts for end users. Our approach demonstrates usefulness of the seamless climate forecast information of the frost risk for the Vineyard farmers in Catalonia region.
