@@ -7,6 +7,4 @@ venue: "npj Natural Hazards"
 paperurl: "https://doi.org/10.1038/s44304-026-00269-6"
 ---
 
-### Making climate forecast information actionable!
-
 Link: https://doi.org/10.1038/s44304-026-00269-6
