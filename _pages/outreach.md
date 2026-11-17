@@ -6,6 +6,8 @@ author_profile: true
 
 This section highlights media coverage, interviews, and research outreach.
 
+## Media Coverage & Research Highlights
+
 ### 1. Science and Industry Collaboration
 
 [Read the article](https://www.aspect-project.eu/aspect-supports-climate-informed-decision-making-at-recent-hackathon/)
