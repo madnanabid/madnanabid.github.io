@@ -4,17 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on understanding climate variability and predictability, with particular emphasis on atmospheric dynamics and large-scale climate interactions.
+## Climate Variability and Ocean–Atmosphere Teleconnections
 
-I am interested in understanding how tropical and extratropical climate processes interact across different timescales, and how these interactions influence regional climate variability and seasonal predictability.
+![Figure 15: Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO](/images/research/Fig15_Abidetal_2021.tif)
 
-## Research interests
+*Figure 15. Indian and Pacific Ocean contributions to the Euro-Atlantic circulation response to ENSO and their seasonal evolution from early to late winter.*
 
-- **Atmospheric dynamics:** Understanding the physical processes governing atmospheric circulation and climate variability.
-- **Climate variability and predictability:** Investigating sources of seasonal-to-interannual climate variability and their predictability.
-- **Tropical–extratropical teleconnections:** Exploring how climate signals in the tropics influence atmospheric circulation and weather patterns in the extratropics.
-- **El Niño–Southern Oscillation (ENSO):** Examining the influence of ENSO on large-scale atmospheric circulation and regional climate.
-- **European climate variability:** Understanding the drivers of regional climate variability over Europe and their links to global climate patterns.
+My research investigates how tropical ocean variability, particularly the El Niño–Southern Oscillation (ENSO) and Indian Ocean conditions, influences atmospheric circulation and climate variability over the Euro-Atlantic region. I examine the relative contributions of the Indian and Pacific Oceans and the physical mechanisms responsible for the seasonal evolution of these teleconnections.
+
+**Related publication:**
+
+[Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1)
 
 ## Current research
 
