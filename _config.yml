@@ -88,7 +88,7 @@ author:
   location         : "Oxford, UK"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=BsShe4kAAAAJ&hl=en"
   email            : adnan.abid@physics.ox.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Muhammad-Adnan-Abid?ev=hdr_xprf"
   uri              :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "madnanabid"
   vine             :
   weibo            :
   xing             :
