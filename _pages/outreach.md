@@ -26,4 +26,4 @@ This section highlights media coverage, interviews, and research outreach.
 
 ### 5. Predicting Droughts
 
-[Read the article](https://doi.org/10.1038/nmiddleeast.2018.5)
+[Read the article](https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2018.5)
