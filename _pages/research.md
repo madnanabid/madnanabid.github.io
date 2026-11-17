@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Making Climate Forecast Information Actionable
+## Tailoring Climate Forecasts to Action
 ![Seamless Climate Information System for extremes](/images/research/Abidetal_2026_Fig4.png)
 
 *Seamless forecast based on temporal merging. a Forecast skill (anomaly correlation skill) of FFD (black line on primary y-axis) during Spring (March-April) for each start date for the period 1983–2022; while ensemble size for each start date is shown on secondary y-axis; b Forecast Skill of temporally merged forecast (blue line on primary y-axis) at each merged step, and corresponding ensemble size on secondary y-axis; c Impact of the weighting (equal vs relative) on the merged forecast skill; d Comparison of forecast skill based on randomly sub-sampled 15 ensemble members from temporally merged forecast (shown in orange line) with the fully merged forecast (shown in blue line). Shading (a-d) shows uncertainty range within 5–95% confidence interval, where values excluding zero represents statistically significant values. The x-axis is non-linear.*
