@@ -6,6 +6,9 @@ author_profile: true
 ## Making Climate Forecast Information Actionable
 ![Seamless Climate Information System for extremes](/images/research/Abidetal_2026_Fig4.png)
 
+*Seamless forecast based on temporal merging. a Forecast skill (anomaly correlation skill) of FFD (black line on primary y-axis) during Spring (March-April)
+for each start date for the period 1983–2022; while ensemble size for each start date is shown on secondary y-axis; b Forecast Skill of temporally merged forecast (blue line on primary y-axis) at each merged step, and corresponding ensemble size on secondary y-axis; c Impact of the weighting (equal vs relative) on the merged forecast skill; d Comparison of forecast skill based on randomly sub-sampled 15 ensemble members from temporally merged forecast (shown in orange line) with the fully merged forecast (shown in blue line). Shading (a-d) shows uncertainty range within 5–95% confidence interval, where values excluding zero represents statistically significant values. The x-axis is non-linear.*
+
 Climate forecasts are most useful when they can support real-world decisions. My research explores how scientists and industry can work together to develop climate information that meets the needs of decision-makers. In particular, I have developed an approach that combines ensemble forecasts across different start dates, linking interannual and seasonal predictions into a seamless forecasting framework. This approach helps provide more consistent climate information across timescales and demonstrates its potential value for supporting practical decisions and managing climate-related risks.
 
 **Related publication:**
