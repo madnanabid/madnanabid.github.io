@@ -1,3 +1,14 @@
-Making climate forecast information actionable!
+---
+title: "Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application"
+collection: publications
+permalink: /publication/2026-bridging-multi-annual-seasonal-forecasts
+date: 2026-09-15
+venue: "npj Natural Hazards"
+paperurl: "https://doi.org/10.1038/s44304-026-00269-6"
+---
 
-The co-production framework between science and industry is a practical pathway for building, tailored climate information that can be accessible for actionable measures by decision-makers. In this regard, we have developed a new approach, where ensemble members are pooled across available start dates from interannual to seasonal forecasts. This new method demonstrates the potential economic value, and usefulness of the seamless forecasts for end users. Our approach demonstrates usefulness of the seamless climate forecast information of the frost risk for the Vineyard farmers in Catalonia region.
+### Making climate forecast information actionable!
+
+Co-production between science and industry provides a practical pathway for developing tailored climate information that supports decision-making and enables actionable measures. In this study, we developed a new approach in which ensemble members are pooled across available start dates, from interannual to seasonal forecasts. The potential economic value and practical usefulness of seamless climate forecasts for end users is also discussed. The value of this seamless forecast information was demonstrated through its application to spring frost risk for vineyard farmers in the Catalonia region of Spain
+
+Link: https://doi.org/10.1038/s44304-026-00269-6
