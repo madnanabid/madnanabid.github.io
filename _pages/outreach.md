@@ -1,12 +1,10 @@
 ---
-title: "Media & Outreach"
+title: "Media Coverage & Research Highlights"
 permalink: /outreach/
 author_profile: true
 ---
 
 This section highlights media coverage, interviews, and research outreach.
-
-## Media Coverage & Research Highlights
 
 ### 1. Science and Industry Collaboration
 
