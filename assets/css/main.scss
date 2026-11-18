@@ -1,3 +1,4 @@
+
 ---
 ---
 
@@ -10,9 +11,6 @@
  *
 */
 
-
----
----
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -44,24 +42,33 @@
 @import "print";
 
 
-/* Custom typography adjustments */
+/* =========================================
+   Custom typography adjustments
+   ========================================= */
 
-/* Main body and research content */
+/* Main body text */
 body {
   font-size: 1.0em;
   line-height: 1.65;
 }
 
-/* Research descriptions and page content */
+/* Research page content */
 .page__content {
   line-height: 1.6;
 }
 
-/* All figure captions */
-figcaption {
-  font-size: 0.70em;
+/* Markdown italic text used for figure captions */
+.page__content em {
+  font-size: 0.85em;
   color: #666;
-  line-height: 1.4;
+  line-height: 1.45;
+}
+
+/* Standard HTML figure captions */
+figcaption {
+  font-size: 0.85em;
+  color: #666;
+  line-height: 1.45;
   margin-top: 8px;
   margin-bottom: 20px;
 }
