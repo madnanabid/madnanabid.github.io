@@ -66,7 +66,7 @@ author_profile: true
 </div>
 
 
-<h2>Role of Indian Ocean in ENSO Teleconnections to North Atlantic &amp; Europe</h2>
+<h2>Inter-basin: Role of Indian Ocean in ENSO Teleconnections to North Atlantic &amp; Europe</h2>
 
 <div class="research-row">
 
@@ -74,15 +74,15 @@ author_profile: true
 
     <!-- New figure (top) -->
     <img src="/images/research/Fig15_Abidetal_2021.png"
-         alt="Additional figure showing Indian Ocean and ENSO teleconnections">
+         alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO (Abid et al. 2021)">
 
     <p class="research-caption">
       <em>Caption for the new figure.</em>
     </p>
 
     <!-- Existing figure (below) -->
-    <img src="/images/research/Fig15_Abidetal_2021.png"
-         alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO">
+    <img src="/images/research/raganato_2015_JCLI_Fig10.png"
+         alt="October Indian Ocean Dipole (IOD) teleconnectons to extratropical atmospheric circulation during early boreal winter (Raganato et al. 2025)">
 
     <p class="research-caption">
       <em>
@@ -118,6 +118,15 @@ author_profile: true
       <em>Journal of Climate</em>.
     </p>
 
+    <strong>Related publication:</strong><br>
+      <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
+        Raganato, A., <strong>Abid, M.A.</strong> & Kucharski, F. (2025). The combined link of 
+        the Indian Ocean dipole and ENSO with the North Atlantic–European 
+        circulation during early boreal winter in reanalysis and the ECMWF 
+        SEAS5 hindcast.
+      </a>
+      <em>Journal of Climate</em>.
+    </p>
   </div>
 
 </div>
