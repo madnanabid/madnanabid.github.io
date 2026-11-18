@@ -10,6 +10,9 @@
  *
 */
 
+
+---
+---
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -45,18 +48,18 @@
 
 /* Main body and research content */
 body {
-  font-size: 0.95em;
-  line-height: 1.6;
+  font-size: 1.0em;
+  line-height: 1.65;
 }
 
 /* Research descriptions and page content */
 .page__content {
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
-/* Figure captions */
+/* All figure captions */
 figcaption {
-  font-size: 0.75em;
+  font-size: 0.70em;
   color: #666;
   line-height: 1.4;
   margin-top: 8px;
