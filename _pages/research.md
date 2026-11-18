@@ -64,17 +64,62 @@ author_profile: true
   </div>
 </div>
 
-## Role of Indian Ocean in ENSO Teleconnections to North Atlantic & Europe
 
-![Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO](/images/research/Fig15_Abidetal_2021.png)
+<h2>Role of Indian Ocean in ENSO Teleconnections to North Atlantic &amp; Europe</h2>
 
-*Indian and Pacific Ocean contributions to the Euro-Atlantic circulation response to ENSO and their seasonal evolution from early to late winter.*
+<div class="research-row">
 
-My research investigates how tropical ocean variability, particularly the El Niño–Southern Oscillation (ENSO) and Indian Ocean conditions, influences atmospheric circulation and climate variability over the Euro-Atlantic region. I examine the relative contributions of the Indian and Pacific Oceans and the physical mechanisms responsible for the seasonal evolution of these teleconnections.
+  <div class="research-image">
 
-**Related publication:**
+    <!-- New figure (top) -->
+    <img src="/images/research/Fig15_Abidetal_2021.png"
+         alt="Additional figure showing Indian Ocean and ENSO teleconnections">
 
-[Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S., Tompkins, A.M. & Almazroui, M. (2021). Separating the Indian and Pacific Ocean impacts on the Euro-Atlantic response to ENSO and its transition from early to late winter. *Journal of Climate*.](https://doi.org/10.1175/JCLI-D-20-0075.1)
+    <p class="research-caption">
+      <em>Caption for the new figure.</em>
+    </p>
+
+    <!-- Existing figure (below) -->
+    <img src="/images/research/Fig15_Abidetal_2021.png"
+         alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO">
+
+    <p class="research-caption">
+      <em>
+        Indian and Pacific Ocean contributions to the Euro-Atlantic
+        circulation response to ENSO and their seasonal evolution
+        from early to late winter.
+      </em>
+    </p>
+
+  </div>
+
+  <div class="research-description">
+
+    <p>
+      My research investigates how tropical ocean variability,
+      particularly the El Niño–Southern Oscillation (ENSO) and
+      Indian Ocean conditions, influences atmospheric circulation
+      and climate variability over the Euro-Atlantic region.
+      I examine the relative contributions of the Indian and
+      Pacific Oceans and the physical mechanisms responsible
+      for the seasonal evolution of these teleconnections.
+    </p>
+
+    <p>
+      <strong>Related publication:</strong><br>
+      <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
+        Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S.,
+        Tompkins, A.M. &amp; Almazroui, M. (2021).
+        Separating the Indian and Pacific Ocean impacts on the
+        Euro-Atlantic response to ENSO and its transition from
+        early to late winter.
+      </a>
+      <em>Journal of Climate</em>.
+    </p>
+
+  </div>
+
+</div>
 
 
 
