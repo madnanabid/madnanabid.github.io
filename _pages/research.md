@@ -3,17 +3,67 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Tailoring Climate Forecasts to Action
-![Seamless Climate Information System for extremes](/images/research/Abidetal_2026_Fig4.png)
 
-*Seamless forecast based on temporal merging. a Forecast skill (anomaly correlation skill) of FFD (black line on primary y-axis) during Spring (March-April) for each start date for the period 1983–2022; while ensemble size for each start date is shown on secondary y-axis; b Forecast Skill of temporally merged forecast (blue line on primary y-axis) at each merged step, and corresponding ensemble size on secondary y-axis; c Impact of the weighting (equal vs relative) on the merged forecast skill; d Comparison of forecast skill based on randomly sub-sampled 15 ensemble members from temporally merged forecast (shown in orange line) with the fully merged forecast (shown in blue line). Shading (a-d) shows uncertainty range within 5–95% confidence interval, where values excluding zero represents statistically significant values. The x-axis is non-linear.*
+<div class="research-row">
+  <div class="research-image">
 
-Climate forecasts are most useful when they can support real-world decisions. My research explores how scientists and industry can work together to develop climate information that meets the needs of decision-makers. In particular, I have developed an approach that combines ensemble forecasts across different start dates, linking interannual and seasonal predictions into a seamless forecasting framework. This approach helps provide more consistent climate information across timescales and demonstrates its potential value for supporting practical decisions and managing climate-related risks.
+    <img src="/images/research/Abidetal_2026_Fig4.png"
+         alt="Seamless climate information system for climate extremes">
 
-**Related publication:**
+    <p class="research-caption">
+      <em>
+      Seamless forecast based on temporal merging.
+      (a) Forecast skill (anomaly correlation) of FFD
+      (black line, primary y-axis) during spring
+      (March–April) for each start date over 1983–2022;
+      ensemble size is shown on the secondary y-axis.
+      (b) Forecast skill of the temporally merged forecast
+      (blue line, primary y-axis) at each merged step,
+      with corresponding ensemble size on the secondary
+      y-axis. (c) Impact of equal versus relative weighting
+      on merged forecast skill. (d) Comparison of forecast
+      skill using randomly subsampled 15 ensemble members
+      (orange line) with the full merged ensemble
+      (blue line). Shading indicates the 5–95% confidence
+      interval; values excluding zero indicate statistical
+      significance. Note that the x-axis is nonlinear.
+      </em>
+    </p>
 
-[Abid, M.A., Balan Sarojini, B. & Weisheimer, A. (2026). Bridging multi-annual to seasonal forecasts to develop seamless information for climate extremes: frost risk application. *npj Natural Hazards*.](https://doi.org/10.1038/s44304-026-00269-6)
+  </div>
 
+  <div class="research-description">
+
+    <h2>Tailoring Climate Forecasts to Action</h2>
+
+    <p>
+      Climate forecasts are most useful when they can support
+      real-world decisions. My research explores how scientists
+      and industry can work together to develop climate
+      information that meets the needs of decision-makers.
+    </p>
+
+    <p>
+      In particular, I have developed an approach that combines
+      ensemble forecasts across different start dates, linking
+      interannual and seasonal predictions into a seamless
+      forecasting framework. This approach helps provide more
+      consistent climate information across timescales and
+      demonstrates its potential value for supporting practical
+      decisions and managing climate-related risks.
+    </p>
+
+    <p>
+      <strong>Related publication:</strong><br>
+      Abid, M.A., Balan Sarojini, B. &amp; Weisheimer, A. (2026).
+      <a href="https://doi.org/10.1038/s44304-026-00269-6">
+      Bridging multi-annual to seasonal forecasts to develop
+      seamless information for climate extremes: frost risk
+      application</a>. <em>npj Natural Hazards</em>.
+    </p>
+
+  </div>
+</div>
 
 ## Role of Indian Ocean in ENSO Teleconnections to North Atlantic & Europe
 
