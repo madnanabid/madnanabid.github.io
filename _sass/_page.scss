@@ -399,3 +399,37 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.research-row {
+  display: grid;
+  grid-template-columns: 42% 58%;
+  gap: 25px;
+  align-items: start;
+  margin: 35px 0 45px;
+}
+
+.research-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+.research-caption {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 8px;
+}
+
+.research-description h2 {
+  margin-top: 0;
+  font-size: 1.25em;
+}
+
+@media (max-width: 768px) {
+  .research-row {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
