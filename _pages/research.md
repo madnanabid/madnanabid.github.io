@@ -116,7 +116,6 @@ author_profile: true
       <em>Journal of Climate</em>.
     </p>
 
-    <strong>Related publication:</strong><br>
       <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
         Raganato, A., <strong>Abid, M.A.</strong> & Kucharski, F. (2025). The combined link of 
         the Indian Ocean dipole and ENSO with the North Atlantic–European 
@@ -125,7 +124,6 @@ author_profile: true
       </a>
       <em>Journal of Climate</em>.
     </p>
-  </div>
 
 </div>
 
