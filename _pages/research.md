@@ -3,31 +3,49 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
 <h2>Tailoring Climate Forecasts to Action</h2>
 
 <div class="research-row">
+
   <div class="research-image">
 
+    <!-- First figure -->
     <img src="/images/research/Abidetal_2026_Fig4.png"
          alt="Seamless climate information system for climate extremes">
 
     <p class="research-caption">
       <em>
-      Seamless forecast based on temporal merging.
-      (a) Forecast skill (anomaly correlation) of FFD
-      (black line, primary y-axis) during spring
-      (March–April) for each start date over 1983–2022;
-      ensemble size is shown on the secondary y-axis.
-      (b) Forecast skill of the temporally merged forecast
-      (blue line, primary y-axis) at each merged step,
-      with corresponding ensemble size on the secondary
-      y-axis. (c) Impact of equal versus relative weighting
-      on merged forecast skill. (d) Comparison of forecast
-      skill using randomly subsampled 15 ensemble members
-      (orange line) with the full merged ensemble
-      (blue line). Shading indicates the 5–95% confidence
-      interval; values excluding zero indicate statistical
-      significance. Note that the x-axis is nonlinear.
+        Seamless forecast based on temporal merging.
+        (a) Forecast skill (anomaly correlation) of FFD
+        (black line, primary y-axis) during spring
+        (March–April) for each start date over 1983–2022;
+        ensemble size is shown on the secondary y-axis.
+        (b) Forecast skill of the temporally merged forecast
+        (blue line, primary y-axis) at each merged step,
+        with corresponding ensemble size on the secondary
+        y-axis. (c) Impact of equal versus relative weighting
+        on merged forecast skill. (d) Comparison of forecast
+        skill using randomly subsampled 15 ensemble members
+        (orange line) with the full merged ensemble
+        (blue line). Shading indicates the 5–95% confidence
+        interval; values excluding zero indicate statistical
+        significance. Note that the x-axis is nonlinear.
+      </em>
+    </p>
+
+    <!-- Second figure -->
+    <img src="/images/research/Abidetal_2026_Fig7.png"
+         alt="Potential Economic Value of the seamless merged forecast">
+
+    <p class="research-caption">
+      <em>
+        Relative economic value (REV) of the
+        merged forecast: a) REV of the frequency of frost days (FFD) 
+        for the merged forecast,vertical dashed line represents 
+        climatological observed probability; b) Integrated REV across 
+        cost/loss curve of the merged forecast at each merged step
+        (MS). The x-axis is non-linear.
       </em>
     </p>
 
@@ -51,6 +69,7 @@ author_profile: true
       demonstrates its potential value for supporting practical
       decisions and managing climate-related risks.
     </p>
+
     <p>
       <strong>Related publication:</strong><br>
       <a href="https://doi.org/10.1038/s44304-026-00269-6">
@@ -61,8 +80,8 @@ author_profile: true
       <em>npj Natural Hazards</em>.
     </p>
 
-
   </div>
+
 </div>
 
 
