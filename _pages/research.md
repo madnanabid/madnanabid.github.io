@@ -3,6 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<h2>Tailoring Climate Forecasts to Action</h2>
 
 <div class="research-row">
   <div class="research-image">
@@ -33,8 +34,6 @@ author_profile: true
   </div>
 
   <div class="research-description">
-
-    <h2>Tailoring Climate Forecasts to Action</h2>
 
     <p>
       Climate forecasts are most useful when they can support
