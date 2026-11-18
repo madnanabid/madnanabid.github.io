@@ -123,7 +123,7 @@ author_profile: true
     </p>
 
     <p>
-      <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
+      <a href="https://doi.org/10.1175/JCLI-D-23-0703.1">
         Raganato, A., <strong>Abid, M.A.</strong> &amp; Kucharski, F.
         (2025). The combined link of the Indian Ocean Dipole and
         ENSO with the North Atlantic–European circulation during
