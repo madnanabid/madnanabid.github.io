@@ -99,11 +99,9 @@ author_profile: true
     <p>
       My research investigates how tropical ocean variability,
       particularly the El Niño–Southern Oscillation (ENSO) and
-      Indian Ocean conditions, influences atmospheric circulation
-      and climate variability over the Euro-Atlantic region.
-      I examine the relative contributions of the Indian and
-      Pacific Oceans and the physical mechanisms responsible
-      for the seasonal evolution of these teleconnections.
+      Indian Ocean conditions, influences climate variability &
+      predictability over the Euro-Atlantic region on sub-seasonal 
+      to seasonal timescales.
     </p>
 
     <p>
