@@ -51,15 +51,16 @@ author_profile: true
       demonstrates its potential value for supporting practical
       decisions and managing climate-related risks.
     </p>
-
     <p>
       <strong>Related publication:</strong><br>
-      Abid, M.A., Balan Sarojini, B. &amp; Weisheimer, A. (2026).
       <a href="https://doi.org/10.1038/s44304-026-00269-6">
-      Bridging multi-annual to seasonal forecasts to develop
-      seamless information for climate extremes: frost risk
-      application</a>. <em>npj Natural Hazards</em>.
+        <strong>Abid, M.A.</strong>, Balan Sarojini, B. &amp; Weisheimer, A.
+        (2026). Bridging multi-annual to seasonal forecasts to develop
+        seamless information for climate extremes: frost risk application.
+      </a>
+      <em>npj Natural Hazards</em>.
     </p>
+
 
   </div>
 </div>
@@ -108,7 +109,7 @@ author_profile: true
     <p>
       <strong>Related publication:</strong><br>
       <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
-        Abid, M.A., Kucharski, F., Molteni, F., Kang, I.-S.,
+        <strong>Abid, M.A.</strong>, Kucharski, F., Molteni, F., Kang, I.-S.,
         Tompkins, A.M. &amp; Almazroui, M. (2021).
         Separating the Indian and Pacific Ocean impacts on the
         Euro-Atlantic response to ENSO and its transition from
@@ -123,14 +124,56 @@ author_profile: true
 
 
 
-## Role of Indian Ocean in ENSO Teleconnections to South & West Asia
 
-![Indian Ocean contribution in mediating ENSO teleconnections to Southwest Asia](/images/research/Abidetal_2020_grl61230-fig-0003-m_Fig3.png)
+<h2>Role of Indian Ocean in ENSO Teleconnections to South &amp; West Asia</h2>
 
-*(a) Correlations between the standardized CSWA, Niño3.4, and TWEIO precipitation indices, (b) same as of (a) but with linearly independent Niño3.4 and TWEIO indices. (c–h) Regression of precipitation (shaded; mm/day) and 200-hPa geopotential height (Z200) anomalies (contours; m) onto standardized TWEIO precipitation index after removing the effect of Niño3.4; (i–n) same as in (c)–(h) but for the standardized Niño3.4 precipitation index after removing the effect of TWEIO. Purple contours represent statistical significance at 95% confidence level.*
+<div class="research-row">
 
-Indian Ocean mediates ENSO teleconnections to southwest Asia. I examine the relative contributions of the Indian and Pacific Oceans and the physical mechanisms through observations & modelling experiments.
+  <div class="research-image">
 
-**Related publication:**
+    <img src="/images/research/Abidetal_2020_grl61230-fig-0003-m_Fig3.png"
+         alt="Indian Ocean contribution in mediating ENSO teleconnections to Southwest Asia">
 
-[Abid, M.A., Ashfaq, M., Kucharski, F., Evans, K.J. & Almazroui, M. (2020). Tropical Indian Ocean Mediates ENSO Influence Over Central Southwest Asia During the Wet Season. *Geophysical Research Letters*.](https://doi.org/10.1029/2020GL089308)
+    <p class="research-caption">
+      <em>
+        (a) Correlations between the standardized CSWA, Niño3.4,
+        and TWEIO precipitation indices. (b) Same as (a), but
+        using linearly independent Niño3.4 and TWEIO indices.
+        (c–h) Regression of precipitation (shading; mm/day) and
+        200-hPa geopotential height (Z200) anomalies (contours; m)
+        onto the standardized TWEIO precipitation index after
+        removing the effect of Niño3.4. (i–n) Same as (c–h),
+        but for the standardized Niño3.4 index after removing
+        the effect of TWEIO. Purple contours indicate statistical
+        significance at the 95% confidence level.
+      </em>
+    </p>
+
+  </div>
+
+  <div class="research-description">
+
+    <p>
+      My research investigates how the tropical Indian Ocean
+      mediates ENSO teleconnections to Southwest Asia.
+      I examine the relative contributions of the Indian and
+      Pacific Oceans and the physical mechanisms underlying
+      their influence on regional precipitation variability
+      through observational analyses and modelling experiments.
+    </p>
+
+    <p>
+      <strong>Related publication:</strong><br>
+      <a href="https://doi.org/10.1029/2020GL089308">
+        <strong>Abid, M.A.</strong>, Ashfaq, M., Kucharski, F., Evans, K.J. &amp;
+        Almazroui, M. (2020). Tropical Indian Ocean Mediates
+        ENSO Influence Over Central Southwest Asia During the
+        Wet Season.
+      </a>
+      <em>Geophysical Research Letters</em>.
+    </p>
+
+  </div>
+
+</div>
+b
