@@ -401,35 +401,37 @@
 }
 
 
+
 .research-row {
   display: grid;
-  grid-template-columns: 42% 58%;
-  gap: 25px;
+  grid-template-columns: minmax(0, 1.22fr) minmax(0, 1fr);
+  gap: 30px;
   align-items: start;
-  margin: 35px 0 45px;
+  margin: 40px 0 50px;
 }
 
 .research-image img {
   width: 100%;
+  max-width: none;
   height: auto;
   display: block;
-  border-radius: 4px;
 }
 
 .research-caption {
   font-size: 0.8em;
   color: #666;
-  margin-top: 8px;
+  line-height: 1.5;
+  margin-top: 10px;
 }
 
 .research-description h2 {
   margin-top: 0;
-  font-size: 1.25em;
+  font-size: 1.3em;
 }
 
 @media (max-width: 768px) {
   .research-row {
     grid-template-columns: 1fr;
-    gap: 12px;
+    gap: 15px;
   }
 }
