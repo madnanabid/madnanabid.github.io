@@ -43,7 +43,7 @@
 
 /* Custom typography adjustments */
 
-/* Main body text */
+/* Main body and research content */
 body {
   font-size: 0.95em;
   line-height: 1.6;
@@ -51,11 +51,10 @@ body {
 
 /* Research descriptions and page content */
 .page__content {
-  font-size: 0.95em;
   line-height: 1.55;
 }
 
-/* Small captions and supplementary text */
+/* Figure captions */
 figcaption {
   font-size: 0.75em;
   color: #666;
