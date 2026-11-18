@@ -41,7 +41,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
 /* =========================================
    Custom typography adjustments
    ========================================= */
@@ -55,13 +54,6 @@ body {
 /* Research page content */
 .page__content {
   line-height: 1.6;
-}
-
-/* Markdown italic text used for figure captions */
-.page__content em {
-  font-size: 0.85em;
-  color: #666;
-  line-height: 1.45;
 }
 
 /* Standard HTML figure captions */
