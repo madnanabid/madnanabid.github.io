@@ -40,27 +40,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* =========================================
-   Custom typography adjustments
-   ========================================= */
-
-/* Main body text */
-body {
-  font-size: 1.0em;
-  line-height: 1.65;
-}
-
-/* Research page content */
-.page__content {
-  line-height: 1.6;
-}
-
-/* Standard HTML figure captions */
-figcaption {
-  font-size: 0.85em;
-  color: #666;
-  line-height: 1.45;
-  margin-top: 8px;
-  margin-bottom: 20px;
-}
