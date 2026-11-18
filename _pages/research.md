@@ -74,21 +74,25 @@ author_profile: true
 
     <!-- New figure (top) -->
     <img src="/images/research/Fig15_Abidetal_2021.png"
-         alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO (Abid et al. 2021)">
+         alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO">
 
     <p class="research-caption">
-      <em>Caption for the new figure.</em>
+      <em>  
+      Indian and Pacific Ocean contributions to the Euro-Atlantic
+      circulation response to ENSO and their seasonal evolution
+      from early to late winter (Abid et al. 2021).
+      </em>
     </p>
 
     <!-- Existing figure (below) -->
     <img src="/images/research/raganato_2015_JCLI_Fig10.png"
-         alt="October Indian Ocean Dipole (IOD) teleconnectons to extratropical atmospheric circulation during early boreal winter (Raganato et al. 2025)">
+         alt="October Indian Ocean Dipole (IOD) teleconnectons to extratropical atmospheric circulation during early boreal winter">
 
     <p class="research-caption">
       <em>
-        Indian and Pacific Ocean contributions to the Euro-Atlantic
-        circulation response to ENSO and their seasonal evolution
-        from early to late winter.
+      October Indian Ocean Dipole (IOD) teleconnectons to 
+      extratropical atmospheric circulation during early 
+      boreal winter (Raganato et al. 2025)
       </em>
     </p>
 
