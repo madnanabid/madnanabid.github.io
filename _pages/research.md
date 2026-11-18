@@ -66,33 +66,32 @@ author_profile: true
 </div>
 
 
+
 <h2>Inter-basin: Role of Indian Ocean in ENSO Teleconnections to North Atlantic &amp; Europe</h2>
 
 <div class="research-row">
 
   <div class="research-image">
 
-    <!-- New figure (top) -->
     <img src="/images/research/Fig15_Abidetal_2021.png"
          alt="Indian and Pacific Ocean impacts on the Euro-Atlantic circulation response to ENSO">
 
     <p class="research-caption">
-      <em>  
-      Indian and Pacific Ocean contributions to the Euro-Atlantic
-      circulation response to ENSO and their seasonal evolution
-      from early to late winter (Abid et al. 2021).
+      <em>
+        Indian and Pacific Ocean contributions to the Euro-Atlantic
+        circulation response to ENSO and their seasonal evolution
+        from early to late winter (Abid et al., 2021).
       </em>
     </p>
 
-    <!-- Existing figure (below) -->
-    <img src="/images/research/raganato_2015_JCLI_Fig10.png"
-         alt="October Indian Ocean Dipole (IOD) teleconnectons to extratropical atmospheric circulation during early boreal winter">
+    <img src="/images/research/raganato_2025_JCLI_Fig10.png"
+         alt="October Indian Ocean Dipole teleconnections to extratropical atmospheric circulation during early boreal winter">
 
     <p class="research-caption">
       <em>
-      October Indian Ocean Dipole (IOD) teleconnectons to 
-      extratropical atmospheric circulation during early 
-      boreal winter (Raganato et al. 2025)
+        October Indian Ocean Dipole (IOD) teleconnections to
+        extratropical atmospheric circulation during early
+        boreal winter (Raganato et al., 2025).
       </em>
     </p>
 
@@ -103,16 +102,19 @@ author_profile: true
     <p>
       My research investigates how tropical ocean variability,
       particularly the El Niño–Southern Oscillation (ENSO) and
-      Indian Ocean conditions, influences climate variability &
-      predictability over the Euro-Atlantic region on sub-seasonal 
-      to seasonal timescales.
+      Indian Ocean conditions, influences climate variability
+      and predictability over the Euro-Atlantic region on
+      subseasonal to seasonal timescales.
     </p>
 
     <p>
-      <strong>Related publication:</strong><br>
+      <strong>Related publications:</strong>
+    </p>
+
+    <p>
       <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
-        <strong>Abid, M.A.</strong>, Kucharski, F., Molteni, F., Kang, I.-S.,
-        Tompkins, A.M. &amp; Almazroui, M. (2021).
+        <strong>Abid, M.A.</strong>, Kucharski, F., Molteni, F.,
+        Kang, I.-S., Tompkins, A.M. &amp; Almazroui, M. (2021).
         Separating the Indian and Pacific Ocean impacts on the
         Euro-Atlantic response to ENSO and its transition from
         early to late winter.
@@ -120,17 +122,19 @@ author_profile: true
       <em>Journal of Climate</em>.
     </p>
 
+    <p>
       <a href="https://doi.org/10.1175/JCLI-D-20-0075.1">
-        Raganato, A., <strong>Abid, M.A.</strong> & Kucharski, F. (2025). The combined link of 
-        the Indian Ocean dipole and ENSO with the North Atlantic–European 
-        circulation during early boreal winter in reanalysis and the ECMWF 
-        SEAS5 hindcast.
+        Raganato, A., <strong>Abid, M.A.</strong> &amp; Kucharski, F.
+        (2025). The combined link of the Indian Ocean Dipole and
+        ENSO with the North Atlantic–European circulation during
+        early boreal winter in reanalysis and the ECMWF SEAS5 hindcast.
       </a>
       <em>Journal of Climate</em>.
     </p>
 
-</div>
+  </div>
 
+</div>
 
 
 
@@ -174,12 +178,12 @@ author_profile: true
     <p>
       <strong>Related publication:</strong><br>
       <a href="https://doi.org/10.1029/2020GL089308">
-        <strong>Abid, M.A.</strong>, Ashfaq, M., Kucharski, F., Evans, K.J. &amp;
-        Almazroui, M. (2020). Tropical Indian Ocean Mediates
-        ENSO Influence Over Central Southwest Asia During the
-        Wet Season.
+        <strong>Abid, M.A.</strong>, Ashfaq, M., Kucharski, F.,
+        Evans, K.J. &amp; Almazroui, M. (2020).
+        Tropical Indian Ocean Mediates ENSO Influence Over
+        Central Southwest Asia During the Wet Season.
+        <em>Geophysical Research Letters</em>.
       </a>
-      <em>Geophysical Research Letters</em>.
     </p>
 
   </div>
