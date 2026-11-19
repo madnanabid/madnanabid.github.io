@@ -208,3 +208,45 @@ author_profile: true
   </div>
 
 </div>
+
+
+<h2>ENSO-Arabian Peninsula Seasonal teleconnection & predcitability</h2>
+
+<div class="research-row">
+
+  <div class="research-image">
+
+    <img src="/images/research/Abidetal_2020_grl61230-fig-0003-m_Fig3.png"
+         alt="ENSO teleconnections to AP rainfall during summer season">
+
+    <p class="research-caption">
+      <em>
+        ENSO to Arabian Peninsula summer rainfall in summer season.
+      </em>
+    </p>
+
+  </div>
+
+  <div class="research-description">
+
+    <p>
+      Drought conditions are particularly alarming for a 
+      water-scarce region like the Arabian Peninsula. 
+      El Niño Southern Oscillation (ENSO) strongly influences 
+      the southwestern peninsula rainfall and drives drought 
+      conditions in its warm phase.
+    </p>
+
+    <p>
+      <strong>Related publication:</strong><br>
+      <a href="https://doi.org/10.1038/s41612-017-0003-7">
+        <strong>Abid, M.A.</strong>, Almazroui, M., Kucharski, F. et al. (2018).
+        ENSO relationship to summer rainfall variability and its 
+        potential predictability over Arabian Peninsula region.
+        <em>Gnpj Climate Atmos Science</em>.
+      </a>
+    </p>
+
+  </div>
+
+</div>
