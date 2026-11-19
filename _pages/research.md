@@ -243,7 +243,7 @@ author_profile: true
         <strong>Abid, M.A.</strong>, Almazroui, M., Kucharski, F. et al. (2018).
         ENSO relationship to summer rainfall variability and its 
         potential predictability over Arabian Peninsula region.
-        <em>Gnpj Climate Atmos Science</em>.
+        <em>npj Climate Atmospheric Science</em>.
       </a>
     </p>
 
