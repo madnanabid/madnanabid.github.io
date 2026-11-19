@@ -217,7 +217,7 @@ author_profile: true
 
   <div class="research-image">
 
-    <img src="/images/research/41612_2017_3_Fig1_Abideal_2018.png"
+    <img src="/images/research/41612_2017_3_Fig1_Abid_etal_2018.png"
          alt="ENSO teleconnections with summer rainfall over the Arabian Peninsula">
 
     <p class="research-caption">
