@@ -210,18 +210,20 @@ author_profile: true
 </div>
 
 
-<h2>ENSO-Arabian Peninsula Seasonal teleconnection & predcitability</h2>
+
+<h2>ENSO–Arabian Peninsula Seasonal Teleconnections and Predictability</h2>
 
 <div class="research-row">
 
   <div class="research-image">
 
     <img src="/images/research/41612_2017_3_Fig1_Abideal_2018.png"
-         alt="ENSO teleconnections to AP rainfall during summer season">
+         alt="ENSO teleconnections with summer rainfall over the Arabian Peninsula">
 
     <p class="research-caption">
       <em>
-        ENSO to Arabian Peninsula summer rainfall in summer season.
+        Relationship between ENSO and summer rainfall variability
+        over the Arabian Peninsula.
       </em>
     </p>
 
@@ -230,20 +232,25 @@ author_profile: true
   <div class="research-description">
 
     <p>
-      Drought conditions are particularly alarming for a 
-      water-scarce region like the Arabian Peninsula. 
-      El Niño Southern Oscillation (ENSO) strongly influences 
-      the southwestern peninsula rainfall and drives drought 
-      conditions in its warm phase.
+      Drought conditions pose a significant challenge for the
+      water-scarce Arabian Peninsula. The El Niño–Southern Oscillation
+      (ENSO) is an important driver of climate variability in the
+      region, influencing summer rainfall, particularly over the
+      southwestern Arabian Peninsula. El Niño conditions are
+      associated with reduced summer rainfall and an increased
+      likelihood of drought, highlighting the potential for
+      ENSO-based seasonal climate prediction in this vulnerable region.
     </p>
 
     <p>
       <strong>Related publication:</strong><br>
-      <a href="https://doi.org/10.1038/s41612-017-0003-7">
+      <a href="https://doi.org/10.1038/s41612-017-0003-7"
+         target="_blank"
+         rel="noopener noreferrer">
         <strong>Abid, M.A.</strong>, Almazroui, M., Kucharski, F. et al. (2018).
-        ENSO relationship to summer rainfall variability and its 
+        ENSO relationship to summer rainfall variability and its
         potential predictability over Arabian Peninsula region.
-        <em>npj Climate Atmospheric Science</em>.
+        <em>npj Climate and Atmospheric Science</em>.
       </a>
     </p>
 
