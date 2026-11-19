@@ -216,7 +216,7 @@ author_profile: true
 
   <div class="research-image">
 
-    <img src="/images/research/Abidetal_2020_grl61230-fig-0003-m_Fig3.png"
+    <img src="/images/research/A41612_2017_3_Fig1_Abideal_2018.png"
          alt="ENSO teleconnections to AP rainfall during summer season">
 
     <p class="research-caption">
