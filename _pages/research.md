@@ -222,7 +222,7 @@ author_profile: true
 
     <p class="research-caption">
       <em>
-        Relationship between ENSO and summer rainfall variability
+        Relationship between ENSO and summer rainfall variability & predictability
         over the Arabian Peninsula.
       </em>
     </p>
