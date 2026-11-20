@@ -26,6 +26,7 @@ Research Interest
 * Seamless climate information
 * Climate Adaptation
 * Machine Learning
+* Tropical & extratropical climate
     
 Key technical Skills
 ======
@@ -33,11 +34,10 @@ Key technical Skills
 * Computational Proficiency:
   * Python, Fortran, Shell scripting
 
-
 Research Highlights
 ======
 
-* Developing methods for seamless climate information for climate extrems on multi-annual timescales.
+* Developed seamless climate information method for climate extremes on multi-annual timescales for end-users.
 * Hightlighted role of the Indian Ocean in the ENSO teleconenctions with the North Atlantic and South Asian region.
 * Established ENSO teleconnections with Arabian Peninsula precipitation under modeling framework.
 
