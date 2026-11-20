@@ -25,6 +25,7 @@ Research Interest
 * Climate Dynamics
 * Seamless climate information
 * Climate Adaptation
+* Machine Learning
     
 Key technical Skills
 ======
