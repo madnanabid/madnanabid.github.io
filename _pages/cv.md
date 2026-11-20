@@ -56,7 +56,7 @@ A selection of my publications is listed below. For the complete publication lis
 * M. A. Abid, F. Kucharski, M. Almazroui, I-S. Kang; Interannual rainfall variability and ECMWF-Sys4-based predictability over the Arabian Peninsula winter monsoon region; Quart. J. R. Met. Soc. 142 (694), 233-242, 2016.
 * M.A. Abid, Kang, I.S., Almazroui, M. & Kucharski, F. Contribution of synoptic transients to the potential predictability of PNA circulation anomalies: El Niño versus La Niña . Journal of Climate. 8347–8362, https://doi.org/10.1175/JCLI-D-14-00497.1; 2015.
 
-Selected Talks
+Talks & Presentation
 ======
 * For futher details, please see the [**Talks**](/talks1/) section of my website.
   
