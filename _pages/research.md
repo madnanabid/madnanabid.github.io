@@ -267,8 +267,8 @@ author_profile: true
     </p>
 
     <p>
-      Arabin Winter monsoon index show rainfall index. Relationship of  
-      winter rainfall with ENSO over Arabian Peninsula 
+      Arabin Winter monsoon rainfall over Arabian Peninsula and its relationship 
+      with ENSO. 
     </p>
 
     <p>
