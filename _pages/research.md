@@ -222,8 +222,17 @@ author_profile: true
 
     <p class="research-caption">
       <em>
-        Relationship between ENSO and summer rainfall variability & predictability
-        over the Arabian Peninsula.
+        Relationship between ENSO and summer rainfall variability
+        and predictability over the Arabian Peninsula (Abid et al., 2018).
+      </em>
+    </p>
+
+    <img src="/images/research/Abid_etal2016_Arabian_winter_monsoon_index.png"
+         alt="Arabian Winter Monsoon Index (Abid et al. 2016)">
+
+    <p class="research-caption">
+      <em>
+        Arabian Winter Monsoon Index (Abid et al. 2016).
       </em>
     </p>
 
@@ -243,17 +252,42 @@ author_profile: true
     </p>
 
     <p>
-      <strong>Related publication:</strong><br>
+      <strong>Related publication:</strong>
+    </p>
+
+    <p>
       <a href="https://doi.org/10.1038/s41612-017-0003-7"
          target="_blank"
          rel="noopener noreferrer">
         <strong>Abid, M.A.</strong>, Almazroui, M., Kucharski, F. et al. (2018).
         ENSO relationship to summer rainfall variability and its
         potential predictability over Arabian Peninsula region.
-        <em>npj Climate and Atmospheric Science</em>.
       </a>
+      <em>npj Climate and Atmospheric Science</em>.
+    </p>
+
+    <p>
+      Arabin Winter monsoon index show rainfall index. Relationship of  
+      winter rainfall with ENSO over Arabian Peninsula 
+    </p>
+
+    <p>
+      <strong>Related publication:</strong>
+    </p>
+
+    <p>
+      <a href="https://doi.org/10.1002/qj.2648"
+         target="_blank"
+         rel="noopener noreferrer">
+        <strong>Abid, M.A.</strong>, Kucharski, F., 
+        Almazroui, M. & Kang, I.-S. (2016). Interannual rainfall 
+        variability and ECMWF-Sys4-based predictability over the 
+        Arabian Peninsula winter monsoon region. 
+      </a>
+      <em>Quarterly Journal of the Royal Meteorological Society</em>.
     </p>
 
   </div>
 
 </div>
+```
