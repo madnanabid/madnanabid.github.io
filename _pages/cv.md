@@ -50,9 +50,9 @@ Teaching & Supervision
 ======
 
 *	Supervising Master student at Oxford University, U.K. 
-*	Demonstrator for the Graduate Program at Oxford University, U.K., 
-*	Examiner role for the Master Thesis at Oxford University, U.K., 
-*	Developed Data Analysis course for ESP diploma Program at ICTP, Trieste, Italy, 
+*	Demonstrator for the Graduate Program at Oxford University, U.K. 
+*	Examiner role for the Master Thesis at Oxford University, U.K. 
+*	Developed Data Analysis course for ESP diploma Program at ICTP, Trieste, Italy. 
 *	co-Supervised/Mentoring Ph.D, Masters and diploma students.
 
 
