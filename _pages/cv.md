@@ -41,6 +41,21 @@ Research Highlights
 * Hightlighted role of the Indian Ocean in the ENSO teleconenctions with the North Atlantic and South Asian region.
 * Established ENSO teleconnections with Arabian Peninsula precipitation under modeling framework.
 
+Editorial Position
+======
+
+*	Associate Editor of Earth Systems and Environment (ESEV) Springer-Nature Journal.
+
+Teaching & Supervision
+======
+
+*	Supervising Master student at Oxford University, U.K. 
+*	Demonstrator for the Graduate Program at Oxford University, U.K., 
+*	Examiner role for the Master Thesis at Oxford University, U.K., 
+*	Developed Data Analysis course for ESP diploma Program at ICTP, Trieste, Italy, 
+*	co-Supervised/Mentoring Ph.D, Masters and diploma students.
+
+
 Selected Publications 
 ======
 
