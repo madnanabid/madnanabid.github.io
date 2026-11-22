@@ -78,4 +78,4 @@ Talks & Presentation
   
 Science Communication
 ======
-*	- I actively engage in science communication through media contributions and public outreach activities. For further details, please see the [**Media & Outreach**](/outreach/) section of my website.
+*	I actively engage in science communication through media contributions and public outreach activities. For further details, please see the [**Media & Outreach**](/outreach/) section of my website.
