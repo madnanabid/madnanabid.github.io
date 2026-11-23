@@ -44,7 +44,7 @@ Research Highlights
 Editorial Position
 ======
 
-*	Associate Editor of Earth Systems and Environment (ESEV) Springer-Nature Journal.
+** Associate Editor**, [Earth Systems and Environment (ESEV) Springer-Nature Journal](https://link.springer.com/journal/41748).
 
 Teaching & Supervision
 ======
